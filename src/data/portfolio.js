@@ -45,5 +45,17 @@ export default [
          '/assets/4/6.jpeg',
          '/assets/4/7.jpeg',
       ]
+   },
+   {
+      title: 'Aeroplane',
+      imgUrls: [
+         '/assets/5/1.jpeg',
+         '/assets/5/2.jpeg',
+         '/assets/5/3.jpeg',
+         '/assets/5/4.jpeg',
+         '/assets/5/5.jpeg',
+         '/assets/5/6.jpeg',
+         '/assets/5/7.jpeg',
+      ]
    }
 ]
