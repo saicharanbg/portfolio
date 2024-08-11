@@ -33,5 +33,17 @@ export default [
          '/assets/3/5.jpg',
          '/assets/3/6.jpg',
       ]
+   },
+   {
+      title: 'Autonomous underwater vehicle',
+      imgUrls: [
+         '/assets/4/1.jpeg',
+         '/assets/4/2.jpeg',
+         '/assets/4/3.jpeg',
+         '/assets/4/4.jpeg',
+         '/assets/4/5.jpeg',
+         '/assets/4/6.jpeg',
+         '/assets/4/7.jpeg',
+      ]
    }
 ]
